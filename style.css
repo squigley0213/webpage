@@ -54,3 +54,35 @@ body, html {
   margin-top: 8px;
   vertical-align: middle;
 }
+
+.p1 {
+  padding: 35px;
+}
+
+
+h2 {
+    text-align:center;
+    
+}
+
+      .fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("mike.jpeg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
